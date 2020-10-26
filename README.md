@@ -3,7 +3,7 @@
 <!--
 **yangyang-linux/yangyang-linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![阳阳's github stats](https://github-readme-stats.vercel.app/api?username=yangyang-linux)
 -->
 - 🔭 I’m currently studying in 山西
 - 🌱 I’m currently learning web
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 菜鸡
 - ⚡ Fun fact: listen music
 - 喜欢许嵩
-![阳阳's github stats](https://github-readme-stats.vercel.app/api?username=yangyang-linux)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangyang-linux)

@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-![阳阳's github stats](https://github-readme-stats.vercel.app/api?username=yangyang-linux)
-- 🔭 I’m currently studying in 山西
+
+- 🔭 I’m currently studying in 山西             ![阳阳's github stats](https://github-readme-stats.vercel.app/api?username=yangyang-linux)
 - 🌱 I’m currently learning web
 - 👯 I’m looking to collaborate on qq and wechat
 - 🤔 I’m looking for help with github

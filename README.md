@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: listen music
 
 - 喜欢许嵩
+![阳阳's github stats](https://github-readme-stats.vercel.app/api?username=yangyang-linux)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangyang-linux)

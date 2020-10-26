@@ -3,8 +3,9 @@
 <!--
 **yangyang-linux/yangyang-linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:![阳阳's github stats](https://github-readme-stats.vercel.app/api?username=yangyang-linux)
+Here are some ideas to get you started:
 -->
+![阳阳's github stats](https://github-readme-stats.vercel.app/api?username=yangyang-linux)
 - 🔭 I’m currently studying in 山西
 - 🌱 I’m currently learning web
 - 👯 I’m looking to collaborate on qq and wechat

@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 2985409357@qq.com
 - 😄 Pronouns: 菜鸡
 - ⚡ Fun fact: listen music
-
 - 喜欢许嵩
 ![阳阳's github stats](https://github-readme-stats.vercel.app/api?username=yangyang-linux)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangyang-linux)
